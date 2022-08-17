@@ -55,8 +55,8 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.vcardowner = ['94773122185'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
-global.ytname = "YT: Xeon" //ur yt chanel name
+global.ownername = "Rush Official" //ur owner name
+global.ytname = "YT: Dark Music" //ur yt chanel name
 global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
@@ -64,8 +64,8 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['94773122185']
 global.ownertag = '94773122185' //ur tag number
 global.botname = 'Izumi' //ur bot name
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.linkz = "https://youtube.com/c/DarkMusicX" //your theme url which will be displayed on whatsapp
+global.websitex = "https://youtube.com/c/DarkMusicX" //ur website to be displayed
 global.botscript = 'https://github.com/RushxAnu/CheemsBot-MD4' //script link
 global.reactmoji = "😘" //ur menu react emoji
 global.themeemoji = "🦄" //ur theme emoji
